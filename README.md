@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AmeerahO98/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AmeerahO98/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Subscription, Resource Group and Storage Account within Microsoft Azure](https://github.com/AmeerahO98/configure-ad)
+  - [Creating a Subscription, Resource Group and Storage Account within Microsoft Azure](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AmeerahO98/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AmeerahO98/azure-network-protocols)
 
