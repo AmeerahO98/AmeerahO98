@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ameerah, an <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity and Azure Associate </a>☺</h1>
+<h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity and Azure Associate </a>☺</h1>
 
 <h2>💻 Cyber Security/Information Technology Projects:</h2>
 
