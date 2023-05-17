@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity and Azure Associate </a>☺</h1>
 
-<h2>Cyber Security and Cloud Projects:</h2>
+<h2>Cybersecurity and Cloud Projects:</h2>
 
 - <b>Microsoft Sentinel (SIEM) / Honey Net</b>
   - [osTicket: Prerequisites and Installation](https://github.com/AmeerahO98/osticket-prereqs)
