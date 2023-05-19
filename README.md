@@ -9,7 +9,7 @@
   - [Continuing with the HoneyNet lab. Running different queries (KQL) in Sentinel's Log Analytics Workspaces to research our data.](https://github.com/AmeerahO98/Logging)
 
 - <b>Secure Cloud Configuration in Azure (Honey Net)</b>
-  - [This is a before and after look at the honeynet after 24 hours of hardening the environment.](https://github.com/AmeerahO98/Logging)
+  - [This is a before and after look at the Honey Net after 24 hours of hardening the environment.](https://github.com/AmeerahO98/Secure_Cloud)
 
 <h2>Information Technology Projects:</h2>
 
