@@ -15,7 +15,7 @@
   - [Deploying Azure Resources. Set up Data Connectors to trigger Sentinel alerts for Data Analysis.](https://github.com/AmeerahO98/detect)
 
 - <b>Azure Firewall</b>
-  - [Building a firewall for a virtual network in Azure and testing the set rules for it.](https://github.com/AmeerahO98/detect)
+  - [Building a firewall for a virtual network in Azure and testing the set rules for it.](https://github.com/AmeerahO98/firewall)
 
 <h2>Information Technology Projects:</h2>
 
