@@ -18,7 +18,7 @@
   - [Building a firewall for a virtual network in Azure and testing the set rules for it.](https://github.com/AmeerahO98/firewall)
 
 - <b>Azure DDOS Protection</b>
-  - [DDOS protection on Azure Virtual Network.](https://github.com/AmeerahO98/firewall)
+  - [DDOS protection on Azure Virtual Network.](https://github.com/AmeerahO98/ddos)
 
 <h2>Information Technology Projects:</h2>
 
