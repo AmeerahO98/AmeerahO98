@@ -8,6 +8,9 @@
 - <b>Log Analytic Workspaces in Sentinel (Honey Net)</b>
   - [Continuing with the HoneyNet lab. Running different queries (KQL) in Sentinel's Log Analytics Workspaces to research our data.](https://github.com/AmeerahO98/Logging)
 
+- <b>Secure Cloud Configuration in Azure (Honey Net)</b>
+  - [This is a before and after look at the honeynet after 24 hours of hardening the environment.](https://github.com/AmeerahO98/Logging)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
