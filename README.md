@@ -11,6 +11,9 @@
 - <b>Secure Cloud Configuration in Azure (Honey Net)</b>
   - [This is a before and after look at the Honey Net after 24 hours of hardening the environment.](https://github.com/AmeerahO98/Secure_Cloud)
 
+- <b>Azure Cloud Detection</b>
+  - [Deploying Azure Resources. Set up Data Connectors to trigger Sentinel alerts for Data Analysis.](https://github.com/AmeerahO98/Secure_Cloud)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
