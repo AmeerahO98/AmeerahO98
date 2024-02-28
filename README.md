@@ -3,7 +3,7 @@
 <h2>Identity and Access Management Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Create an admin unit called New York. Add the first 5 units & HR group. Assign Abbie as User Admin.](https://github.com/AmeerahO98/Honey_Net)
+  - [Create an admin unit called New York. Add the first 5 units and HR group. Assign Abbie as User Admin.](https://github.com/AmeerahO98/Honey_Net)
 
 <h2>Incident Response Projects:</h2>
 
