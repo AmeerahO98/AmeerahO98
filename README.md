@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity, Information Assurance Professional and Azure Associate </a>☺</h1>
 
-<h2>Cybersecurity, Information Assurance and Cloud Projects:</h2>
+<h2>Incident Response Projects:</h2>
 
 - <b>Microsoft Sentinel (SIEM) / Honey Net</b>
   - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](https://github.com/AmeerahO98/Honey_Net)
