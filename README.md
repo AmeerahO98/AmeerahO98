@@ -1,11 +1,6 @@
 <h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity, Information Assurance Professional and Azure Associate </a>☺</h1>
 
-<h2>Identity and Access Management Projects:</h2>
-
-- <b>Microsoft Azure: Create an administrative unit for New York</b>
-  - [Create an admin unit called New York. Add the first 5 units and HR group. Assign Abbie as User Admin.](https://github.com/AmeerahO98/Honey_Net)
-
-<h2>Incident Response Projects:</h2>
+<h2>Cloud Projects:</h2>
 
 - <b>Microsoft Sentinel (SIEM) / Honey Net</b>
   - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](https://github.com/AmeerahO98/Honey_Net)
