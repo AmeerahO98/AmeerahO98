@@ -18,11 +18,6 @@
   - [DDOS protection on Azure Virtual Network.](https://github.com/AmeerahO98/ddos)
 
 <h2>Information Technology Projects:</h2>
-
-- <b>osTicket (Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AmeerahO98/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/AmeerahO98/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/AmeerahO98/ticket-lifecycle)
   
 - <b>Microsoft Azure</b>
   - [Creating a Subscription, Resource Group and Storage Account within Azure](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
