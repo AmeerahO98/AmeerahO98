@@ -17,6 +17,18 @@
 - <b>Azure DDOS Protection</b>
   - [DDOS protection on Azure Virtual Network.](https://github.com/AmeerahO98/ddos)
 
+<h2>Identity and Access Mangement Projects:</h2>
+
+- <b>Microsoft Azure Entra ID</b>
+  - [Creating User's in Entra ID](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
+  - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahO98/configure-ad)
+  - [Role Assignments](https://github.com/AmeerahO98/azure-network-protocols)
+  - [Group Assignments](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
+  - [Identity Lifecycle](https://github.com/AmeerahO98/configure-ad)
+  - [Audit Logs](https://github.com/AmeerahO98/azure-network-protocols)
+  - [Sign-In Logs](https://github.com/AmeerahO98/configure-ad)
+  - [Authentication](https://github.com/AmeerahO98/azure-network-protocols)
+
 <h2>Information Technology Projects:</h2>
   
 - <b>Microsoft Azure</b>
