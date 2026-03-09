@@ -20,7 +20,7 @@
 <h2>Identity and Access Mangement Projects:</h2>
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
+  - [Creating User's in Entra ID](https://github.com/AmeerahO98/user-creation-repository)
   - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahO98/configure-ad)
   - [Role Assignments](https://github.com/AmeerahO98/azure-network-protocols)
   - [Group Assignments](https://github.com/AmeerahO98/group-assignments-repository)
