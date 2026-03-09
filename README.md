@@ -29,11 +29,4 @@
   - [Sign-In Logs](https://github.com/AmeerahO98/configure-ad)
   - [Authentication](https://github.com/AmeerahO98/azure-network-protocols)
 
-<h2>Information Technology Projects:</h2>
-  
-- <b>Microsoft Azure</b>
-  - [Creating a Subscription, Resource Group and Storage Account within Azure](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AmeerahO98/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AmeerahO98/azure-network-protocols)
-
 
