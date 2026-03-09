@@ -23,7 +23,7 @@
   - [Creating User's in Entra ID](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
   - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahO98/configure-ad)
   - [Role Assignments](https://github.com/AmeerahO98/azure-network-protocols)
-  - [Group Assignments](https://github.com/AmeerahO98/subscription-resourcegroup-storageaccount)
+  - [Group Assignments](https://github.com/AmeerahO98/group-assignments-repository)
   - [Identity Lifecycle](https://github.com/AmeerahO98/configure-ad)
   - [Audit Logs](https://github.com/AmeerahO98/azure-network-protocols)
   - [Sign-In Logs](https://github.com/AmeerahO98/configure-ad)
