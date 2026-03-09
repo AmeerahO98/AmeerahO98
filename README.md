@@ -22,7 +22,7 @@
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/AmeerahO98/user-creation-repository)
   - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahO98/cloud-provisioning-licensing-repository)
-  - [Role Assignments](https://github.com/AmeerahO98/azure-network-protocols)
+  - [Role Assignments](https://github.com/AmeerahO98/role-assignment-repository)
   - [Group Assignments](https://github.com/AmeerahO98/group-assignments-repository)
   - [Identity Lifecycle](https://github.com/AmeerahO98/configure-ad)
   - [Audit Logs](https://github.com/AmeerahO98/audit-logs-repository/blob/main/README.md)
