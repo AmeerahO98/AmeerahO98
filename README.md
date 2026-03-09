@@ -26,7 +26,7 @@
   - [Group Assignments](https://github.com/AmeerahO98/group-assignments-repository)
   - [Identity Lifecycle](https://github.com/AmeerahO98/identity-lifecycle-repository)
   - [Audit Logs](https://github.com/AmeerahO98/audit-logs-repository)
-  - [Sign-In Logs](https://github.com/AmeerahO98/configure-ad)
+  - [Sign-In Logs](https://github.com/AmeerahO98/sign-in-logs-repository)
   - [Authentication](https://github.com/AmeerahO98/azure-network-protocols)
 
 
