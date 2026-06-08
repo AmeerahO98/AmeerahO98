@@ -30,5 +30,5 @@
   - [Authentication](https://github.com/AmeerahO98/authentication-repository)
 
 - <b>Okta Administration</b>
-  - [Repository Name]()
+  - [Repository Name](https://github.com/USERNAME/REPOSITORY-NAME)
 
