@@ -31,7 +31,7 @@
 
 - <b>Okta Administration</b>
   - [Import Users from Entra ID to Okta Environment](https://github.com/AmeerahO98/Import-Users-from-Entra-ID-to-Okta)
-  - [Enrollment Provisioning in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Enrollment Provisioning in Okta](https://github.com/AmeerahO98/enrollment-provisioning-in-okta)
   - [Creating Users in Okta Manually](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Add Attributes to User Profiles](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Creating Groups in Okta Environment](https://github.com/USERNAME/REPOSITORY-NAME)
