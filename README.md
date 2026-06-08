@@ -30,7 +30,7 @@
   - [Authentication](https://github.com/AmeerahO98/authentication-repository)
 
 - <b>Okta Administration</b>
-  - [Import Users from Entra ID to Okta Environment](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Import Users from Entra ID to Okta Environment](https://github.com/AmeerahO98/Import-Users-from-Entra-ID-to-Okta)
   - [Enrollment Provisioning in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Creating Users in Okta Manually](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Add Attributes to User Profiles](https://github.com/USERNAME/REPOSITORY-NAME)
