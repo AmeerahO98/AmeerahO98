@@ -30,5 +30,12 @@
   - [Authentication](https://github.com/AmeerahO98/authentication-repository)
 
 - <b>Okta Administration</b>
-  - [Repository Name](https://github.com/USERNAME/REPOSITORY-NAME)
-
+  - [Import Users from Entra ID to Okta Environment](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Enrollment Provisioning in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Creating Users in Okta Manually](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Add Attributes to User Profiles](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Creating Groups in Okta Environment](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Attribute-Based Access Control (ABAC) Rules](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Device Management in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Audit Logs in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [PowerShell](https://github.com/USERNAME/REPOSITORY-NAME)
