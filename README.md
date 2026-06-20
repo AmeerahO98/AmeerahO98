@@ -38,4 +38,4 @@
   - [Attribute-Based Access Control (ABAC) Rules](https://github.com/AmeerahO98/attribute-based-access-control)
   - [Device Management in Okta](https://github.com/AmeerahO98/device-management-okta)
   - [Audit Logs in Okta](https://github.com/AmeerahO98/audit-logs-okta)
-  - [PowerShell](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [PowerShell](https://github.com/AmeerahO98/powershell-okta)
