@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity, Information Assurance Professional and Azure Associate </a>☺</h1>
+<h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity, Information Assurance Professional and IAM Associate </a>☺</h1>
 
 <h2>Incident Response in Microsoft Azure:</h2>
 
@@ -19,24 +19,32 @@
 
 <h2>Identity and Access Mangement:</h2>
 
-- <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID - Executed user provisioning and identity management tasks inside our Microsoft Entra ID environment.](https://github.com/AmeerahO98/user-creation-repository)
-    
-  - [Cloud Provisioning - P2 Licensing - Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/AmeerahO98/cloud-provisioning-licensing-repository)
-    
-  - [Role Assignments - Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and Least Privilege.](https://github.com/AmeerahO98/role-assignment-repository)
-    
-  - [Group Assignments - Configured security groups and assigned groups to users to enforce access within Entra ID.](https://github.com/AmeerahO98/group-assignments-repository)
-    
-  - [Identity Lifecycle - Executed full identity lifecycle actions including onboarding, access modifications, account disabling, and secure deprovisioning.](https://github.com/AmeerahO98/identity-lifecycle-repository)
-    
-  - [Audit Logs - Reviewed and interpreted identity activity by way of audit logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/audit-logs-repository)
-    
-  - [Sign-In Logs - Reviewed and interpret identity activity by way of sign-in logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/sign-in-logs-repository)
-    
-  - [Authentication - Demonstrate authentication methods assigned to user identities such as MFA.](https://github.com/AmeerahO98/authentication-repository)
+ <b>Microsoft Azure Entra ID</b>
+- <b>Creating User's in Entra ID</b>
+  - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID environment.](https://github.com/AmeerahO98/user-creation-repository)
 
-- <b>Okta Administration</b>
+- <b>Cloud Provisioning - P2 Licensing</b>  
+  - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/AmeerahO98/cloud-provisioning-licensing-repository)
+
+- <b>Role Assignments</b>    
+  - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and Least Privilege.](https://github.com/AmeerahO98/role-assignment-repository)
+
+- <b>Group Assignments</b>   
+  - [Configured security groups and assigned groups to users to enforce access within Entra ID.](https://github.com/AmeerahO98/group-assignments-repository)
+
+- <b>Identity Lifecycle</b>    
+  - [Executed full identity lifecycle actions including onboarding, access modifications, account disabling, and secure deprovisioning.](https://github.com/AmeerahO98/identity-lifecycle-repository)
+
+- <b>Audit Logs</b>    
+  - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/audit-logs-repository)
+
+- <b>Sign-In Logs</b>    
+  - [Reviewed and interpreted identity activity by way of sign-in logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/sign-in-logs-repository)
+
+- <b>Authentication</b>     
+  - [Demonstrated authentication methods assigned to user identities such as MFA.](https://github.com/AmeerahO98/authentication-repository)
+
+<b>Okta Administration</b>
   - [Import Users from Entra ID to Okta Environment](https://github.com/AmeerahO98/Import-Users-from-Entra-ID-to-Okta)
   - [Enrollment Provisioning in Okta](https://github.com/AmeerahO98/enrollment-provisioning-in-okta)
   - [Creating Users in Okta Manually](https://github.com/AmeerahO98/create-users-manually-okta)
