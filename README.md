@@ -17,7 +17,7 @@
 - <b>Azure DDOS Protection</b>
   - [DDOS protection on Azure Virtual Network.](https://github.com/AmeerahO98/ddos)
 
-<h2>Identity and Access Mangement Projects:</h2>
+<h2>Identity and Access Mangement:</h2>
 
 - <b>Microsoft Azure Entra ID</b>
   - [Creating User's in Entra ID](https://github.com/AmeerahO98/user-creation-repository)
