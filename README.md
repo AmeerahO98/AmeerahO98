@@ -20,14 +20,21 @@
 <h2>Identity and Access Mangement:</h2>
 
 - <b>Microsoft Azure Entra ID</b>
-  - [Creating User's in Entra ID](https://github.com/AmeerahO98/user-creation-repository)
-  - [Cloud Provisioning - P2 Licensing](https://github.com/AmeerahO98/cloud-provisioning-licensing-repository)
-  - [Role Assignments](https://github.com/AmeerahO98/role-assignment-repository)
-  - [Group Assignments](https://github.com/AmeerahO98/group-assignments-repository)
-  - [Identity Lifecycle](https://github.com/AmeerahO98/identity-lifecycle-repository)
-  - [Audit Logs](https://github.com/AmeerahO98/audit-logs-repository)
-  - [Sign-In Logs](https://github.com/AmeerahO98/sign-in-logs-repository)
-  - [Authentication](https://github.com/AmeerahO98/authentication-repository)
+  - [Creating User's in Entra ID - Executed user provisioning and identity management tasks inside our Microsoft Entra ID environment.](https://github.com/AmeerahO98/user-creation-repository)
+    
+  - [Cloud Provisioning - P2 Licensing - Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/AmeerahO98/cloud-provisioning-licensing-repository)
+    
+  - [Role Assignments - Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and Least Privilege.](https://github.com/AmeerahO98/role-assignment-repository)
+    
+  - [Group Assignments - Configured security groups and assigned groups to users to enforce access within Entra ID.](https://github.com/AmeerahO98/group-assignments-repository)
+    
+  - [Identity Lifecycle - Executed full identity lifecycle actions including onboarding, access modifications, account disabling, and secure deprovisioning.](https://github.com/AmeerahO98/identity-lifecycle-repository)
+    
+  - [Audit Logs - Reviewed and interpreted identity activity by way of audit logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/audit-logs-repository)
+    
+  - [Sign-In Logs - Reviewed and interpret identity activity by way of sign-in logs to understand access visibility and security tracking within Entra ID.](https://github.com/AmeerahO98/sign-in-logs-repository)
+    
+  - [Authentication - Demonstrate authentication methods assigned to user identities such as MFA.](https://github.com/AmeerahO98/authentication-repository)
 
 - <b>Okta Administration</b>
   - [Import Users from Entra ID to Okta Environment](https://github.com/AmeerahO98/Import-Users-from-Entra-ID-to-Okta)
