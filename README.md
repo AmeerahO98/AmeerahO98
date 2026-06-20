@@ -36,6 +36,6 @@
   - [Add Attributes to User Profiles](https://github.com/AmeerahO98/add-attributes-to-profiles-okta)
   - [Creating Groups in Okta Environment](https://github.com/AmeerahO98/create-groups-okta)
   - [Attribute-Based Access Control (ABAC) Rules](https://github.com/AmeerahO98/attribute-based-access-control)
-  - [Device Management in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Device Management in Okta](https://github.com/AmeerahO98/device-management-okta)
   - [Audit Logs in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
   - [PowerShell](https://github.com/USERNAME/REPOSITORY-NAME)
