@@ -33,7 +33,7 @@
   - [Import Users from Entra ID to Okta Environment](https://github.com/AmeerahO98/Import-Users-from-Entra-ID-to-Okta)
   - [Enrollment Provisioning in Okta](https://github.com/AmeerahO98/enrollment-provisioning-in-okta)
   - [Creating Users in Okta Manually](https://github.com/AmeerahO98/create-users-manually-okta)
-  - [Add Attributes to User Profiles](https://github.com/USERNAME/REPOSITORY-NAME)
+  - [Add Attributes to User Profiles](https://github.com/AmeerahO98/add-attributes-to-profiles-okta)
   - [Creating Groups in Okta Environment](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Attribute-Based Access Control (ABAC) Rules](https://github.com/USERNAME/REPOSITORY-NAME)
   - [Device Management in Okta](https://github.com/USERNAME/REPOSITORY-NAME)
