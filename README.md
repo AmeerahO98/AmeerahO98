@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ameerah, a <a href="https://linkedin.com/in/ameerah-offord"> Cybersecurity, Information Assurance Professional and IAM Associate </a>☺</h1>
+<h1>Hi, I'm Ameerah, a Cybersecurity, Information Assurance Professional and IAM Associate </a>☺</h1>
 
 <h2>Incident Response in Microsoft Azure:</h2>
 
